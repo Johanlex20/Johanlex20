@@ -26,6 +26,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanlex20/) 
 
 
+[![BANNER-LINKEDING.jpg](https://i.postimg.cc/VLR9WTCC/BANNER-LINKEDING.jpg)](https://postimg.cc/D8Sb2x5v)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johanlex20&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
