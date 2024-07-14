@@ -1,7 +1,7 @@
-👋 HOLA SOY JOHAN 
+# 👋 HOLA SOY JOHAN <br><br>
 **Dev backend Software**<br><br> 🚀 Principalmente estoy involucrado en desarrollo Backend pero cuento con conocimientos en frontend. El crear proyectos constantemente aportando a cremciento personales como laboral. Principal propósito dominar tecnologías que estén a la vanguardia, fortaleciendo mis conocimientos y poniendo en práctica mis habilidades en un entorno de evolución.  🚀 <br><br>
 
-# 💻 Tech Stack:
+# 🛠 Tech Stack:
 
 <div >
 	<img width="70" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
@@ -20,6 +20,7 @@
 	<img width="70" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="70" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 </div>
+
 
 ## Linkeding
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanlex20/) 
